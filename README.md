@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ssikha940-boop/leetcode_solution/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
