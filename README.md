@@ -16,4 +16,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Binary Search
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Queue
+|  |
+| ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 <!---LeetCode Topics End-->
