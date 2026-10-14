@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2469-convert-the-temperature) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
