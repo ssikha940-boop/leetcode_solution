@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/ssikha940-boop/leetcode_solution/tree/master/2652-sum-multiples) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ssikha940-boop/leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
